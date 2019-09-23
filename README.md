@@ -8,13 +8,13 @@
 - [Datasets](#datasets)
   - [Optical Flow Data](#optical-flow-data)
 - [Leaderboards](#leaderboards)
-- [Sources-Lists](#sources-lists)
+
 
 # Optical Flow Estimation
 ## Optical Flow Rank
   - ★★★
-	- ★★
-	- ★
+  - ★★
+  - ★
   - ♥
   
 ## Deep Optical Flow
@@ -25,7 +25,58 @@
 **[Pages]** <Br>
 https://github.com/lmb-freiburg/flownet2 <Br>
 https://github.com/NVIDIA/flownet2-pytorch <Br>
+https://lmb.informatik.uni-freiburg.de/resources/software.php <Br>
 **[Description]** <Br>
+	
+### PWC-Net
+**[Paper]** PWC-Net: CNNs for Optical Flow Using Pyramid, Warping, and Cost Volum <Br>
+**[Year]** CVPR 2018 Oral <Br>
+**[Author]** Deqing Sun, [Xiaodong Yang](http://xiaodongyang.org/), [Ming-Yu Liu](http://mingyuliu.net/), [Jan Kautz](http://jankautz.com/) <Br>
+**[Pages]** <Br>
+https://research.nvidia.com/publication/2018-02_PWC-Net:-CNNs-for <Br>
+https://github.com/NVlabs/PWC-Net <Br>
+**[Description]** <Br>	
+
+### LiteFlowNet
+**[Paper]** LiteFlowNet: A Lightweight Convolutional Neural Network for Optical Flow Estimation <Br>
+**[Year]** CVPR 2018 Spotlight <Br>
+**[Author]** Tak-Wai Hui, [Xiaoou Tang](http://www.ie.cuhk.edu.hk/people/xotang.shtml), [Chen Change Loy](http://personal.ie.cuhk.edu.hk/~ccloy/) <Br>
+**[Pages]** <Br>
+http://mmlab.ie.cuhk.edu.hk/projects/LiteFlowNet/<Br>
+https://github.com/twhui/LiteFlowNet <Br>
+**[Description]** <Br>	
+
+**[Paper]** https://github.com/twhui/LiteFlowNet2 <Br>
+**[Year]** TPAMI 2019 <Br>
+**[Author]** Tak-Wai Hui, [Xiaoou Tang](http://www.ie.cuhk.edu.hk/people/xotang.shtml), [Chen Change Loy](http://personal.ie.cuhk.edu.hk/~ccloy/) <Br>
+**[Pages]** <Br>
+https://github.com/twhui/LiteFlowNet2 <Br>
+**[Description]** <Br>		
+	
+### UnFlow
+**[Paper]** UnFlow: Unsupervised Learning of Optical Flow with a Bidirectional Census Loss <Br>
+**[Year]** AAAI 2018 <Br>
+**[Author]** Simon Meister, Junhwa Hur,  Stefan Roth <Br>
+**[Pages]** https://github.com/simonmeister/UnFlow <Br>
+**[Description]** <Br>		
+
+### LiteFlowNet
+**[Paper]** Competitive Collaboration: Joint Unsupervised Learning of Depth, Camera Motion, Optical Flow and Motion Segmentation <Br>
+**[Year]** CVPR 2018 Spotlight <Br>
+**[Author]**  Anurag Ranjan, Varun Jampani,Lukas Balles, [Kihwan Kim](https://www.cc.gatech.edu/~kihwan23/), Deqing Sun, Jonas Wulff , [Michael J. Black](https://ps.is.tuebingen.mpg.de/person/black)<Br>
+**[Pages]** <Br>
+https://research.nvidia.com/publication/2018-05_Adversarial-Collaboration-Joint <Br>
+https://github.com/anuragranj/cc <Br>
+**[Description]** <Br>	
+	
+### CC
+**[Paper]** Competitive Collaboration: Joint Unsupervised Learning of Depth, Camera Motion, Optical Flow and Motion Segmentation <Br>
+**[Year]** CVPR 2019 <Br>
+**[Author]**  Anurag Ranjan, Varun Jampani,Lukas Balles, [Kihwan Kim](https://www.cc.gatech.edu/~kihwan23/), Deqing Sun, Jonas Wulff , [Michael J. Black](https://ps.is.tuebingen.mpg.de/person/black)<Br>
+**[Pages]** <Br>
+https://research.nvidia.com/publication/2018-05_Adversarial-Collaboration-Joint <Br>
+https://github.com/anuragranj/cc <Br>
+**[Description]** <Br>		
   
 ## Traditional Optical Flow
 
