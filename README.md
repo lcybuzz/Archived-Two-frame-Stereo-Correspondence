@@ -18,6 +18,14 @@
   - ♥
   
 ## Deep Optical Flow
+### **FlowNet**
+**[Paper]** FlowNet: Learning Optical Flow with Convolutional Networks <Br>
+**[Year]** ICCV 2018 <Br>
+**[Author]**Alexey Dosovitskiy, Philipp Fischer, Eddy Ilg, P. Häusser, C. Hazırbaş, V. Golkov, P. Smagt, D. Cremers, Thomas Brox <Br>
+**[Pages]** <Br>
+https://lmb.informatik.uni-freiburg.de/Publications/2015/DFIB15/ <Br>
+**[Description]** <Br>
+	
 ### **FlowNet 2.0**
 **[Paper]** FlowNet 2.0: Evolution of Optical Flow Estimation with Deep Networks <Br>
 **[Year]** CVPR 2017 <Br>
@@ -27,6 +35,8 @@ https://github.com/lmb-freiburg/flownet2 <Br>
 https://github.com/NVIDIA/flownet2-pytorch <Br>
 https://lmb.informatik.uni-freiburg.de/resources/software.php <Br>
 **[Description]** <Br>
+1) FlowNet的改进版, 用了stack等策略. 效果还可以, 但不知在真实数据上的性能有没有保证. <Br>
+2) 整篇论文就像一个实验报告, 细节还没研究. <Br>
 	
 ### **PWC-Net**
 **[Paper]** PWC-Net: CNNs for Optical Flow Using Pyramid, Warping, and Cost Volum <Br>
