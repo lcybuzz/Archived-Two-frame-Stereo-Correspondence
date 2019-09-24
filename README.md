@@ -21,7 +21,7 @@
 ### **FlowNet**
 **[Paper]** FlowNet: Learning Optical Flow with Convolutional Networks <Br>
 **[Year]** ICCV 2015 <Br>
-**[Author]**Alexey Dosovitskiy, Philipp Fischer, Eddy Ilg, P. Häusser, C. Hazırbaş, V. Golkov, P. Smagt, D. Cremers, Thomas Brox <Br>
+**[Author]** Alexey Dosovitskiy, Philipp Fischer, Eddy Ilg, P. Häusser, C. Hazırbaş, V. Golkov, P. Smagt, D. Cremers, Thomas Brox <Br>
 **[Pages]** <Br>
 https://lmb.informatik.uni-freiburg.de/Publications/2015/DFIB15/ <Br>
 **[Description]** <Br>
@@ -53,6 +53,7 @@ https://github.com/anuragranj/spynet <Br>
 **[Pages]** <Br>
 https://research.nvidia.com/publication/2018-02_PWC-Net:-CNNs-for <Br>
 https://github.com/NVlabs/PWC-Net <Br>
+https://github.com/philferriere/tfoptflow <Br>
 **[Description]** <Br>	
 
 ### **LiteFlowNet**
