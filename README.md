@@ -5,8 +5,12 @@
   - [Deep Optical Flow](#deep-optical-flow)
   - [Traditional Optical Flow](#traditional-optical-flow)
   - [Optical Flow Rank](#optical-flow-rank)
+- [Stereo Matching](#stereo-matching)
+  - [Deep matching](#deep-matching)
+  - [Unsupervised Matching](#unsupervised-matching)
 - [Datasets](#datasets)
   - [Optical Flow Data](#optical-flow-data)
+  - [Matching Data](#matching-data)
 - [Leaderboards](#leaderboards)
 
 
@@ -90,7 +94,19 @@ https://github.com/anuragranj/cc <Br>
   
 ## Traditional Optical Flow
 
+# Stereo Matching
 
+## Deep Matching
+
+## Unsupervised Matching
+### ***Bridging Stereo Matching and Optical Flow***
+**[Paper]** Bridging Stereo Matching and Optical Flow via Spatiotemporal Correspondence <Br>
+**[Year]** CVPR 2019 <Br>
+**[Author]**  [Hsueh-Ying Lai](https://lelimite4444.github.io/), [Yi-Hsuan Tsai](https://sites.google.com/site/yihsuantsai/), [Wei-Chen Chiu](https://walonchiu.github.io/)<Br>
+**[Pages]** <Br>
+https://lelimite4444.github.io/BridgeDepthFlow-Project-Page/ <Br>
+**[Description]** <Br>	
+1)粗读, 提出了一个将匹配和光流估计结合起来的无监督学习框架. 性能还不错. <Br>
   
 	
 # Datasets
@@ -102,5 +118,8 @@ https://github.com/anuragranj/cc <Br>
 [KITTI Flow](http://www.cvlibs.net/datasets/kitti/eval_scene_flow.php?benchmark=flow)
 
 [UCF 101](https://www.crcv.ucf.edu/data/UCF101.php)
+
+## Matching Data
+[KITTI Stereo](http://www.cvlibs.net/datasets/kitti/eval_stereo.php)
 
 # Leaderboards
