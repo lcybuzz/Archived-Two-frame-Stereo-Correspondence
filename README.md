@@ -105,6 +105,14 @@ https://github.com/anuragranj/cc <Br>
 http://mmcheng.net/mcua/ <Br>
 **[Description]** <Br>	
 	
+### **StereoNet**
+**[Paper]** StereoNet: Guided Hierarchical Refinement for Real-Time Edge-Aware Depth Prediction<Br>
+**[Year]** ECCV 2018 Oral <Br>
+**[Author]**  [Sameh Khamis](http://www.samehkhamis.com/), [Sean Fanello](http://www.seanfanello.it/), Christoph Rhemann, Adarsh Kowdle, Julien Valentin, Shahram Izadi<Br>
+**[Pages]** <Br>
+https://github.com/meteorshowers/StereoNet-ActiveStereoNet <Br>
+**[Description]** <Br>	
+	
 ## Unsupervised Matching
 ### ***Bridging Stereo Matching and Optical Flow***
 **[Paper]** Bridging Stereo Matching and Optical Flow via Spatiotemporal Correspondence <Br>
