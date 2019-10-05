@@ -108,7 +108,7 @@ https://github.com/JiaRenChang/PSMNet <Br>
 
 ### **StereoNet**
 **[Paper]** StereoNet: Guided Hierarchical Refinement for Real-Time Edge-Aware Depth Prediction<Br>
-**[Year]** ECCV 2018 Oral <Br>
+**[Year]** ECCV 2018 <Br>
 **[Author]**  [Sameh Khamis](http://www.samehkhamis.com/), [Sean Fanello](http://www.seanfanello.it/), Christoph Rhemann, Adarsh Kowdle, Julien Valentin, Shahram Izadi<Br>
 **[Pages]** <Br>
 https://github.com/meteorshowers/StereoNet-ActiveStereoNet <Br>
@@ -128,6 +128,15 @@ http://mmcheng.net/mcua/ <Br>
 **[Description]** <Br>	
 	
 ## Unsupervised Matching
+
+### **ActiveStereoNet**
+**[Paper]** ActiveStereoNet:End-to-End Self-Supervised Learning for Active Stereo Systems<Br>
+**[Year]** ECCV 2018 Oral<Br>
+**[Author]** Yinda Zhang, [Sameh Khamis](http://www.samehkhamis.com/), Christoph Rhemann, Julien Valentin, Adarsh Kowdle, Vladimir Tankovich, Michael Schoenberg, Shahram Izadi, Thomas Funkhouser, [Sean Fanello](http://www.seanfanello.it/)<Br>
+**[Pages]** <Br>
+https://github.com/meteorshowers/StereoNet-ActiveStereoNet <Br>
+**[Description]** <Br>	
+	
 ### ***Bridging Stereo Matching and Optical Flow***
 **[Paper]** Bridging Stereo Matching and Optical Flow via Spatiotemporal Correspondence <Br>
 **[Year]** CVPR 2019 <Br>
