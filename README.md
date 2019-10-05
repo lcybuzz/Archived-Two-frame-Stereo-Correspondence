@@ -125,7 +125,6 @@ https://github.com/SPengLiang/StereoNet_Tensorflow <Br>
 http://mmcheng.net/mcua/ <Br>
 **[Description]** <Br>	
 
-**[Description]** <Br>	
 	
 ## Unsupervised Matching
 
@@ -160,7 +159,9 @@ https://lelimite4444.github.io/BridgeDepthFlow-Project-Page/ <Br>
 ## Matching Data
 [KITTI Stereo](http://www.cvlibs.net/datasets/kitti/eval_stereo.php)
 
-[Scene Flow](https://lmb.informatik.uni-freiburg.de/resources/datasets/SceneFlowDatasets.en.html)
+[Scene Flow](https://lmb.informatik.uni-freiburg.de/resources/datasets/SceneFlowDatasets.en.html) <Br>
+Paper: A Large Dataset to Train Convolutional Networks for Disparity, Optical Flow, and Scene Flow Estimation
+
 
 # Leaderboards
 [KITTI Flow 2012 Leaderboard](http://www.cvlibs.net/datasets/kitti/eval_stereo_flow.php?benchmark=flow)
