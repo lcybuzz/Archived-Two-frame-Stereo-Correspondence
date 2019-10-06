@@ -1,4 +1,4 @@
-# Dual-Camera-Related
+# Two-frame Stereo Correspondence 
 
 # Table of Contents
 - [Optical Flow Estimation](#optical-flow-estimation)
