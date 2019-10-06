@@ -161,19 +161,16 @@ https://github.com/fjordyo0707/StereoMatching-CostFilter <Br>
 **[Description]** <Br>	
 	
 # Datasets
-## Optical Flow Data
-[Sintel](http://sintel.is.tue.mpg.de/)
+[Sintel](http://sintel.is.tue.mpg.de/)  Stereo Matching + Optical FLow
 
-[Sintel Stereo](http://sintel.is.tue.mpg.de/stereo)
-
-[KITTI Flow](http://www.cvlibs.net/datasets/kitti/eval_scene_flow.php?benchmark=flow)
+[KITTI](http://www.cvlibs.net/datasets/kitti/)  Stereo Matching + Optical FLow
 
 [UCF 101](https://www.crcv.ucf.edu/data/UCF101.php)
 
-## Matching Data
-[KITTI Stereo](http://www.cvlibs.net/datasets/kitti/eval_stereo.php)
+[Middlebury](http://vision.middlebury.edu/)  Stereo Matching + Optical FLow <Br>
+Paper: A taxonomy and evaluation of dense two-frame stereo correspondence algorithms
 
-[Scene Flow](https://lmb.informatik.uni-freiburg.de/resources/datasets/SceneFlowDatasets.en.html) <Br>
+[Scene Flow](https://lmb.informatik.uni-freiburg.de/resources/datasets/SceneFlowDatasets.en.html)  Stereo Matching + Optical FLow<Br>
 Paper: A Large Dataset to Train Convolutional Networks for Disparity, Optical Flow, and Scene Flow Estimation
 
 
