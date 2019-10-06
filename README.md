@@ -8,7 +8,7 @@
 - [Stereo Matching](#stereo-matching)
   - [Deep matching](#deep-matching)
   - [Unsupervised Matching](#unsupervised-matching)
-- [Flow And Disparity Estimation](flow-and-disparity-estimation)
+- [Flow And Disparity](flow-and-disparity)
   - [Deep Flow And Disparity](deep-flow-and-disparity)
   - [Traditional Flow And Disparity](traditional-flow-and-disparity)
 - [Datasets](#datasets)
@@ -140,7 +140,7 @@ https://github.com/meteorshowers/StereoNet-ActiveStereoNet <Br>
 **[Description]** <Br>	
 	
   
-# Flow And Disparity Estimation
+# Flow And Disparity
 ## Deep Flow And Disparity
 ### ***Bridging Stereo Matching and Optical Flow***
 **[Paper]** Bridging Stereo Matching and Optical Flow via Spatiotemporal Correspondence <Br>
