@@ -129,7 +129,7 @@ https://github.com/SPengLiang/StereoNet_Tensorflow <Br>
 1) 提出了一个实时的视差估计网络, 分为特征提取, cost volume filtering, refinement三部分, 每部分都使典型的CNN结构. 网络整体结构简单, 速度快(60fps on Titan X), 效果还可以. <Br>
 2) 3d Conv还不清楚是怎么用的, 需要之后参考源码.
 	
-### **iResNet**
+### **iResNet ★★**
 **[Paper]** Learning for Disparity Estimation Through Feature Constancy<Br>
 **[Year]** CVPR 2018 <Br>
 **[Author]**  Zhengfa Liang, Yiliu Feng, [Yulan Guo](http://yulanguo.me/), Hengzhu Liu, Wei Chen, Linbo Qiao, Li Zhou, Jianfeng Zhang<Br>
@@ -137,6 +137,8 @@ https://github.com/SPengLiang/StereoNet_Tensorflow <Br>
 https://github.com/leonzfa/iResNet <Br>
 https://github.com/luoru/iResNet-tf <Br>
 **[Description]** <Br>	
+1) 粗读，提出一个端到端的视差估计方法, 将特征提取, 视差估计, refine融合进一个网络中. 精度较高, 速度较快(50ms wo refine, 120ms w/ refine). <Br>
+2) 没有采用cost volume的策略, 而是采用光流估计中常用的warp+refine策略. <Br>
 	
 ### **MCUA**
 **[Paper]** Multi-Level Context Ultra-Aggregation for Stereo Matching <Br>
