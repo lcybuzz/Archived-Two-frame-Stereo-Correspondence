@@ -4,6 +4,7 @@
 - [Optical Flow Estimation](#optical-flow-estimation)
   - [Deep Optical Flow](#deep-optical-flow)
   - [Traditional Optical Flow](#traditional-optical-flow)
+  - [Unsupervised Optical Flow](#unsupervised-optical-flow)
   - [Optical Flow Rank](#optical-flow-rank)
 - [Stereo Matching](#stereo-matching)
   - [Deep matching](#deep-matching)
@@ -79,13 +80,46 @@ https://github.com/twhui/LiteFlowNet <Br>
 https://github.com/twhui/LiteFlowNet2 <Br>
 **[Description]** <Br>		
 	
+  
+## Traditional Optical Flow
+### ***Optical Flow Filter***
+**[Paper]** A Filter Formulation for Computing Real Time Optical Flow <Br>
+**[Year]** RAL 2016 <Br>
+**[Author]** [Juan David Adarve](http://jadarve.github.io/), David J. Austin, [Robert Mahony](https://users.cecs.anu.edu.au/~Robert.Mahony/) <Br>
+**[Pages]** https://github.com/jadarve/optical-flow-filter <Br>
+**[Description]** <Br>
+
+### **DIS**
+**[Paper]** Fast Optical Flow using Dense Inverse Search  <Br>
+**[Year]** CVPR 2016 <Br>
+**[Author]** Till Kroeger, [Radu Timofte](http://www.vision.ee.ethz.ch/~timofter/), [Dengxin Dai](http://www.vision.ee.ethz.ch/~daid/), Luc Van Gool <Br>
+**[Pages]** https://github.com/tikroeger/OF_DIS <Br>
+**[Description]** <Br>
+
+### **BriefMatch**
+**[Paper]** BriefMatch: Dense binary feature matching for real-time optical flow estimation  <Br>
+**[Year]** SCIA17 <Br>
+**[Author]** [Gabriel Eilertsen](http://vcl.itn.liu.se/members/gabriel-eilertsen), Per-Erik Forssén, [Jonas Unger](http://vcl.itn.liu.se/members/jonas-unger) <Br>
+**[Pages]** https://github.com/gabrieleilertsen/briefmatch <Br>
+**[Description]** <Br>
+	
+## Unsupervised Optical Flow
+### ***Learning Features by Watching Objects Move***
+**[Paper]** Learning Features by Watching Objects Move <Br>
+**[Year]** CVPR 2017 <Br>
+**[Author]** [Deepak Pathak](https://people.eecs.berkeley.edu/~pathak/), [Ross Girshick](http://www.rossgirshick.info/), [Piotr Dollár](https://pdollar.github.io/), [Trevor Darrell](https://people.eecs.berkeley.edu/~trevor/), [Bharath Hariharan](http://home.bharathh.info/) <Br>
+**[Pages]**  <Br>
+https://people.eecs.berkeley.edu/~pathak/unsupervised_video/ <Br>
+**[Description]** <Br>
+	
 ### **UnFlow**
 **[Paper]** UnFlow: Unsupervised Learning of Optical Flow with a Bidirectional Census Loss <Br>
 **[Year]** AAAI 2018 <Br>
 **[Author]** Simon Meister, Junhwa Hur,  Stefan Roth <Br>
 **[Pages]** https://github.com/simonmeister/UnFlow <Br>
-**[Description]** <Br>		
-	
+**[Description]** <Br>
+
+			
 ### **CC**
 **[Paper]** Competitive Collaboration: Joint Unsupervised Learning of Depth, Camera Motion, Optical Flow and Motion Segmentation <Br>
 **[Year]** CVPR 2019 <Br>
@@ -94,9 +128,7 @@ https://github.com/twhui/LiteFlowNet2 <Br>
 https://research.nvidia.com/publication/2018-05_Adversarial-Collaboration-Joint <Br>
 https://github.com/anuragranj/cc <Br>
 **[Description]** <Br>		
-  
-## Traditional Optical Flow
-
+	
 # Stereo Matching
 
 ## Deep Matching
