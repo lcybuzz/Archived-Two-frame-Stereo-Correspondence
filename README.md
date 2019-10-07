@@ -7,6 +7,7 @@
   - [Optical Flow Rank](#optical-flow-rank)
 - [Stereo Matching](#stereo-matching)
   - [Deep matching](#deep-matching)
+  - [Traditional Matching](#traditional-matching)
   - [Unsupervised Matching](#unsupervised-matching)
 - [Flow And Disparity](#flow-and-disparity)
   - [Deep Flow And Disparity](#deep-flow-and-disparity)
