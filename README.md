@@ -101,6 +101,13 @@ https://github.com/anuragranj/cc <Br>
 
 ## Deep Matching
 
+### **SGM-Nets**
+**[Paper]** SGM-Nets: Semi-Global Matching With Neural Networks<Br>
+**[Year]** CVPR 2017 Oral<Br>
+**[Author]** Akihito Seki, [Marc Pollefeys](https://inf.ethz.ch/personal/pomarc/)<Br>
+**[Pages]** <Br>
+**[Description]** <Br>	
+	
 ### **GCNet ★☆**
 **[Paper]** End-To-End Learning of Geometry and Context for Deep Stereo Regression<Br>
 **[Year]** ICCV 2017 Oral<Br>
@@ -168,6 +175,20 @@ https://github.com/feihuzhang/GANet <Br>
 **[Pages]** <Br>
 https://github.com/mattpoggi/guided-stereo <Br>
 **[Description]** <Br>	
+
+### **RF-Net** (非立体匹配)
+**[Paper]** RF-Net: An End-To-End Image Matching Network Based on Receptive Field <Br>
+**[Year]** CVPR 2019 <Br>
+**[Author]**   Xuelun Shen, Cheng Wang, [Xin Li](http://www.ece.lsu.edu/xinli/), Zenglei Yu, [Jonathan Li](https://uwaterloo.ca/mobile-sensing/people-profiles/jonathan-li), Chenglu Wen, Ming Cheng, Zijian He<Br>
+**[Pages]** <Br>
+**[Description]** <Br>	
+	
+### **SDC**
+**[Paper]** SDC - Stacked Dilated Convolution: A Unified Descriptor Network for Dense Matching Tasks <Br>
+**[Year]** CVPR 2019 <Br>
+**[Author]**   [Rene Schuster](https://av.dfki.de/members/schuster/), [Oliver Wasenmuller](https://av.dfki.de/members/wasenmueller/), Christian Unger, [Didier Stricker](https://av.dfki.de/members/stricker/)<Br>
+**[Pages]** <Br>
+**[Description]** <Br>	
 	
 ### **MADNet**
 **[Paper]** Real-time self-adaptive deep stereo <Br>
@@ -203,7 +224,7 @@ https://github.com/CVLAB-Unibo/Real-time-self-adaptive-deep-stereo<Br>
 
 ## Traditional Matching
 ### **SGM GPU**
-**[Paper]** Real-Time Semantic Stereo Matching <Br>
+**[Paper]**  Embedded real-time stereo estimation via Semi-Global Matching on the GPU <Br>
 **[Year]** ICCS 2016 <Br>
 **[Author]**  [D. Hernandez-Juarez](http://danihernandez.eu/), A. Chacón, A. Espinosa, [D. Vázquez](http://www.david-vazquez.com/), J. C. Moure, A. M. López<Br>
 **[Pages]** <Br>
@@ -253,6 +274,9 @@ Paper: A taxonomy and evaluation of dense two-frame stereo correspondence algori
 
 [Scene Flow](https://lmb.informatik.uni-freiburg.de/resources/datasets/SceneFlowDatasets.en.html)  Stereo Matching + Optical FLow<Br>
 Paper: A Large Dataset to Train Convolutional Networks for Disparity, Optical Flow, and Scene Flow Estimation
+
+[DrivingStereo](https://drivingstereo-dataset.github.io/) Stereo Matching
+Paper: DrivingStereo: A Large-Scale Dataset for Stereo Matching in Autonomous Driving Scenarios
 
 
 # Leaderboards
