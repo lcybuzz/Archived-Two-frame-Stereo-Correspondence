@@ -140,13 +140,14 @@ https://github.com/luoru/iResNet-tf <Br>
 1) 粗读，提出一个端到端的视差估计方法, 将特征提取, 视差估计, refine融合进一个网络中. 精度较高, 速度较快(50ms wo refine, 120ms w/ refine). <Br>
 2) 没有采用cost volume的策略, 而是采用光流估计中常用的warp+refine策略. <Br>
 	
-### **MCUA**
+### **MCUA ★**
 **[Paper]** Multi-Level Context Ultra-Aggregation for Stereo Matching <Br>
 **[Year]** CVPR 2019 <Br>
 **[Author]**  [Guang-Yu Nie](https://gy-nie.net/), [Ming-Ming Cheng](https://mmcheng.net/cmm/), [Yun Liu](https://mmcheng.net/yliu/), Zhengfa Liang, [Deng-Ping Fan](http://dpfan.net/), Yue Liu, Yongtian Wang<Br>
 **[Pages]** <Br>
 http://mmcheng.net/mcua/ <Br>
 **[Description]** <Br>	
+1) 在PSMNet的基础上设计了MCUA结构, 就是类似于densenet的各种密集连接. 虽然参数不多, 但速度较慢(0.9s), 性能较好. <Br>
 	
 ### **GA-Net**
 **[Paper]** GA-Net: Guided Aggregation Net for End-To-End Stereo Matching <Br>
