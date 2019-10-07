@@ -110,13 +110,16 @@ https://github.com/kelkelcheng/GC-Net-Tensorflow <Br>
 **[Description]** <Br>	
 1) 端到端的视差估计方法, 由特征提取, cost volume, 3D卷积三部分组成. 效果较好, 但速度较慢(0.9s) <Br>
 	
-### **PSMNet**
+### **PSMNet ★☆**
 **[Paper]** Pyramid Stereo Matching Network<Br>
 **[Year]** ECCV 2018 Oral <Br>
 **[Author]**  [Jia-Ren Chang](https://jiarenchang.github.io/), [Yong-Sheng Chen](https://people.cs.nctu.edu.tw/~yschen/)<Br>
 **[Pages]** <Br>
 https://github.com/JiaRenChang/PSMNet <Br>
 **[Description]** <Br>	
+1) 端到端视差估计网络. 特征提取部分使用了空间金字塔结构, cost volume由左视图和经过相应位移的右视图concat而成, 后续用3D CNN和hourglass结构进行cost volume regularization. <Br>
+2) 性能不错, 这一网络结构被后续许多工作采用, 但是速度一般.
+	
 
 ### **StereoNet ★★**
 **[Paper]** StereoNet: Guided Hierarchical Refinement for Real-Time Edge-Aware Depth Prediction<Br>
@@ -155,6 +158,55 @@ http://mmcheng.net/mcua/ <Br>
 **[Author]**  [Feihu Zhang](http://www.feihuzhang.com/), [Victor Prisacariu](http://www.robots.ox.ac.uk/~victor/), [Ruigang Yang](http://research.baidu.com/People/index-view?id=114), [Philip H.S. Torr](http://www.robots.ox.ac.uk/~phst/)<Br>
 **[Pages]** <Br>
 https://github.com/feihuzhang/GANet <Br>
+**[Description]** <Br>	
+	
+### ***Guided Stereo***
+**[Paper]** Guided Stereo Matching <Br>
+**[Year]** CVPR 2019 <Br>
+**[Author]**   [Matteo Poggi](https://vision.disi.unibo.it/~mpoggi/), Davide Pallotti, [Fabio Tosi](https://vision.disi.unibo.it/~ftosi/), [Stefano Mattoccia](https://vision.disi.unibo.it/~smatt/Site/Home.html)<Br>
+**[Pages]** <Br>
+https://github.com/mattpoggi/guided-stereo <Br>
+**[Description]** <Br>	
+	
+### **MADNet**
+**[Paper]** Real-time self-adaptive deep stereo <Br>
+**[Year]** CVPR 2019 Oral <Br>
+**[Author]**  Alessio Tonioni, Fabio Tosi, Matteo Poggi, Stefano Mattoccia, Luigi Di Stefano<Br>
+**[Pages]** <Br>
+https://github.com/CVLAB-Unibo/Real-time-self-adaptive-deep-stereo<Br>
+**[Description]** <Br>	
+	
+### **HSM**
+**[Paper]** Hierarchical Deep Stereo Matching on High- Resolution Images<Br>
+**[Year]** CVPR 2019 <Br>
+**[Author]**  [Gengshan Yang](http://www.contrib.andrew.cmu.edu/~gengshay/wordpress/), [Joshua Manela](http://joshmanela.me/about/), Michael Happold, [Deva Ramanan](https://www.cs.cmu.edu/~deva/)<Br>
+**[Pages]** <Br>
+http://www.contrib.andrew.cmu.edu/~gengshay/cvpr19stereo<Br>
+https://github.com/gengshan-y/high-res-stereo <Br>
+**[Description]** <Br>	
+	
+### **DeepPruner**
+**[Paper]** DeepPruner: Learning Efficient Stereo Matching via Differentiable PatchMatch <Br>
+**[Year]** ICCV 2019 <Br>
+**[Author]**  Shivam Duggal, [Shenlong Wang](http://www.cs.toronto.edu/~slwang/), [Wei-Chiu Ma](http://people.csail.mit.edu/weichium/), Rui Hu, [Raquel Urtasun](http://www.cs.toronto.edu/~urtasun/)<Br>
+**[Pages]** <Br>
+https://github.com/CVLAB-Unibo/Real-time-self-adaptive-deep-stereo<Br>
+**[Description]** <Br>	
+	
+### **RTSNet**
+**[Paper]** Real-Time Semantic Stereo Matching <Br>
+**[Year]** arXiv 1910 <Br>
+**[Author]**  Pier Luigi Dovesi, [Matteo Poggi](https://vision.disi.unibo.it/~mpoggi/), Lorenzo Andraghetti, Miquel Martí, [Hedvig Kjellström](http://www.csc.kth.se/~hedvig/), [Alessandro Pieropan](http://robocoffee.org/), [Stefano Mattoccia](https://vision.disi.unibo.it/~smatt/Site/Home.html)<Br>
+**[Pages]** <Br>
+**[Description]** <Br>		
+
+## Traditional Matching
+### **SGM GPU**
+**[Paper]** Real-Time Semantic Stereo Matching <Br>
+**[Year]** ICCS 2016 <Br>
+**[Author]**  [D. Hernandez-Juarez](http://danihernandez.eu/), A. Chacón, A. Espinosa, [D. Vázquez](http://www.david-vazquez.com/), J. C. Moure, A. M. López<Br>
+**[Pages]** <Br>
+https://github.com/dhernandez0/sgm <Br>
 **[Description]** <Br>	
 	
 ## Unsupervised Matching
