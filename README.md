@@ -244,7 +244,6 @@ https://github.com/gengshan-y/high-res-stereo <Br>
 **[Year]** ICCV 2019 <Br>
 **[Author]**  Shivam Duggal, [Shenlong Wang](http://www.cs.toronto.edu/~slwang/), [Wei-Chiu Ma](http://people.csail.mit.edu/weichium/), Rui Hu, [Raquel Urtasun](http://www.cs.toronto.edu/~urtasun/)<Br>
 **[Pages]** <Br>
-https://github.com/CVLAB-Unibo/Real-time-self-adaptive-deep-stereo<Br>
 **[Description]** <Br>	
 	
 ### **RTSNet**
