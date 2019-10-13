@@ -64,7 +64,7 @@ https://github.com/NVlabs/PWC-Net <Br>
 https://github.com/philferriere/tfoptflow <Br>
 **[Description]** <Br>	
 
-### **LiteFlowNet**
+### **LiteFlowNet ★☆**
 **[Paper]** LiteFlowNet: A Lightweight Convolutional Neural Network for Optical Flow Estimation <Br>
 **[Year]** CVPR 2018 Spotlight <Br>
 **[Author]** Tak-Wai Hui, [Xiaoou Tang](http://www.ie.cuhk.edu.hk/people/xotang.shtml), [Chen Change Loy](http://personal.ie.cuhk.edu.hk/~ccloy/) <Br>
@@ -72,6 +72,9 @@ https://github.com/philferriere/tfoptflow <Br>
 http://mmlab.ie.cuhk.edu.hk/projects/LiteFlowNet/<Br>
 https://github.com/twhui/LiteFlowNet <Br>
 **[Description]** <Br>	
+1) 粗读。轻量级光流估计网络，效果和速度都不错. <Br>
+2) 采用encoder-decoder结构，逐级估计光流+warp，每个level估计光流时设计了matching+refine两阶段结构. <Br>
+3) 另外提出了一个flow regularization策略，对预测的光流进行滤波，其中滤波的kernel是通过网络学习出来的. 感觉作用类似于一个边缘保持滤波器. <Br>
 
 **[Paper]** A Lightweight Optical Flow CNN - Revisiting Data Fidelity and Regularization <Br>
 **[Year]** TPAMI 2019 <Br>
