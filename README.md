@@ -26,7 +26,7 @@
   - ♥
   
 ## Deep Optical Flow
-### **FlowNet**
+### **FlowNet ★★☆**
 **[Paper]** FlowNet: Learning Optical Flow with Convolutional Networks <Br>
 **[Year]** ICCV 2015 <Br>
 **[Author]** Alexey Dosovitskiy, Philipp Fischer, Eddy Ilg, P. Häusser, C. Hazırbaş, V. Golkov, P. Smagt, D. Cremers, Thomas Brox <Br>
@@ -34,7 +34,7 @@
 https://lmb.informatik.uni-freiburg.de/Publications/2015/DFIB15/ <Br>
 **[Description]** <Br>
 	
-### **FlowNet 2.0**
+### **FlowNet 2.0 ★**
 **[Paper]** FlowNet 2.0: Evolution of Optical Flow Estimation with Deep Networks <Br>
 **[Year]** CVPR 2017 <Br>
 **[Author]** Eddy Ilg, Nikolaus Mayer, Tonmoy Saikia, Margret Keuper, Alexey Dosovitskiy, Thomas Brox <Br>
@@ -54,7 +54,7 @@ https://lmb.informatik.uni-freiburg.de/resources/software.php <Br>
 https://github.com/anuragranj/spynet <Br>
 **[Description]** <Br>
 	
-### **PWC-Net**
+### **PWC-Net ★★**
 **[Paper]** PWC-Net: CNNs for Optical Flow Using Pyramid, Warping, and Cost Volum <Br>
 **[Year]** CVPR 2018 Oral <Br>
 **[Author]** Deqing Sun, [Xiaodong Yang](http://xiaodongyang.org/), [Ming-Yu Liu](http://mingyuliu.net/), [Jan Kautz](http://jankautz.com/) <Br>
@@ -225,7 +225,7 @@ https://github.com/mattpoggi/guided-stereo <Br>
 **[Pages]** <Br>
 **[Description]** <Br>	
 	
-### **MADNet**
+### **MADNet ★★**
 **[Paper]** Real-time self-adaptive deep stereo <Br>
 **[Year]** CVPR 2019 Oral <Br>
 **[Author]**  Alessio Tonioni, Fabio Tosi, Matteo Poggi, Stefano Mattoccia, Luigi Di Stefano<Br>
@@ -267,7 +267,7 @@ https://github.com/dhernandez0/sgm <Br>
 	
 ## Unsupervised Matching
 
-### **ActiveStereoNet**
+### **ActiveStereoNet ★★**
 **[Paper]** ActiveStereoNet:End-to-End Self-Supervised Learning for Active Stereo Systems<Br>
 **[Year]** ECCV 2018 Oral<Br>
 **[Author]** Yinda Zhang, [Sameh Khamis](http://www.samehkhamis.com/), Christoph Rhemann, Julien Valentin, Adarsh Kowdle, Vladimir Tankovich, Michael Schoenberg, Shahram Izadi, Thomas Funkhouser, [Sean Fanello](http://www.seanfanello.it/)<Br>
