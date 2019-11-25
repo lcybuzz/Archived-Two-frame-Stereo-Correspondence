@@ -274,7 +274,15 @@ https://github.com/dhernandez0/sgm <Br>
 **[Pages]** <Br>
 https://github.com/meteorshowers/StereoNet-ActiveStereoNet <Br>
 **[Description]** <Br>	
-	
+
+### ** SsSMnet**
+**[Paper]** Self-Supervised Learning for Stereo Matching with Self-Improving Ability<Br>
+**[Year]** arXiv 1709 <Br>
+**[Author]** [Yiran Zhong](https://cecs.anu.edu.au/people/yiran-zhong), [Yuchao Dai](http://users.cecs.anu.edu.au/~yuchao/), Hongdong Li<Br>
+**[Pages]** <Br>
+https://github.com/meteorshowers/StereoNet-ActiveStereoNet <Br>
+**[Description]** <Br>	
+		
   
 # Flow And Disparity
 ## Deep Flow And Disparity
