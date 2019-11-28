@@ -131,6 +131,23 @@ https://people.eecs.berkeley.edu/~pathak/unsupervised_video/ <Br>
 https://research.nvidia.com/publication/2018-05_Adversarial-Collaboration-Joint <Br>
 https://github.com/anuragranj/cc <Br>
 **[Description]** <Br>		
+
+
+### *** Robustness Meets Deep Learning: An End-to-End Hybrid Pipeline for Unsupervised Learning of Egomotion***
+**[Paper]** Unsupervised Event-based Learning of Optical Flow, Depth, and Egomotion<Br>
+**[Year]** arXiv 1812 <Br>
+**[Author]**  [Alex Zihao Zhu](https://fling.seas.upenn.edu), Wenxin Liu, Ziyun Wang, Vijay Kumar, [Kostas Daniilidis](https://www.cis.upenn.edu/~kostas/)
+<Br>
+**[Pages]** <Br>
+**[Description]** <Br>	
+	
+### *** Unsupervised Event-based Learning of Optical Flow, Depth, and Egomotion***
+**[Paper]** Unsupervised Event-based Learning of Optical Flow, Depth, and Egomotion<Br>
+**[Year]** CVPR 2019 <Br>
+**[Author]**  [Alex Zihao Zhu](https://fling.seas.upenn.edu), Liangzhe Yuan, Kenneth Chaney, [Kostas Daniilidis](https://www.cis.upenn.edu/~kostas/)
+<Br>
+**[Pages]** <Br>
+**[Description]** <Br>	
 	
 # Stereo Matching
 
@@ -266,7 +283,20 @@ https://github.com/dhernandez0/sgm <Br>
 **[Description]** <Br>	
 	
 ## Unsupervised Matching
+### **SsSMnet ★★**
+**[Paper]** Self-Supervised Learning for Stereo Matching with Self-Improving Ability<Br>
+**[Year]** arXiv 1709 <Br>
+**[Author]** [Yiran Zhong](https://cecs.anu.edu.au/people/yiran-zhong), [Yuchao Dai](http://users.cecs.anu.edu.au/~yuchao/), Hongdong Li<Br>
+**[Pages]** <Br>
+**[Description]** <Br>	
 
+### ***Unsupervised Stereo Matching Using Confidential Correspondence Consistency***
+**[Paper]** Unsupervised Stereo Matching Using Confidential Correspondence Consistency<Br>
+**[Year]** ICIP 2017 <Br>
+**[Author]**  Sunghun Joung, [Seungryong Kim](https://seungryong.github.io/), Kihong Park, and Kwanghoon Sohn<Br>
+**[Pages]** <Br>
+**[Description]** <Br>	
+	
 ### **ActiveStereoNet ★★**
 **[Paper]** ActiveStereoNet:End-to-End Self-Supervised Learning for Active Stereo Systems<Br>
 **[Year]** ECCV 2018 Oral<Br>
@@ -275,13 +305,13 @@ https://github.com/dhernandez0/sgm <Br>
 https://github.com/meteorshowers/StereoNet-ActiveStereoNet <Br>
 **[Description]** <Br>	
 
-### **SsSMnet ★★**
-**[Paper]** Self-Supervised Learning for Stereo Matching with Self-Improving Ability<Br>
-**[Year]** arXiv 1709 <Br>
-**[Author]** [Yiran Zhong](https://cecs.anu.edu.au/people/yiran-zhong), [Yuchao Dai](http://users.cecs.anu.edu.au/~yuchao/), Hongdong Li<Br>
+### **Learning to Adapt for Stereo**
+**[Paper]** Learning to Adapt for Stereo<Br>
+**[Year]** CVPR 2019<Br>
+**[Author]** [Alessio Tonioni](https://alessiotonioni.github.io/), Oscar Rahnama, [Thomas Joy](http://www.robots.ox.ac.uk/~tomjoy/), Luigi Di Stefano, [Thalaiyasingam Ajanthan](https://tajanthan.github.io/), [Philip H.S. Torr](http://www.robots.ox.ac.uk/~phst/)<Br>
 **[Pages]** <Br>
-**[Description]** <Br>	
-		
+https://github.com/CVLAB-Unibo/Learning2AdaptForStereo <Br>
+**[Description]** <Br>			
   
 # Flow And Disparity
 ## Deep Flow And Disparity
