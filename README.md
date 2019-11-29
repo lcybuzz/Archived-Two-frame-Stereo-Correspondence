@@ -132,8 +132,15 @@ https://research.nvidia.com/publication/2018-05_Adversarial-Collaboration-Joint 
 https://github.com/anuragranj/cc <Br>
 **[Description]** <Br>		
 
+### **SelFlow**
+**[Paper]** SelFlow: Self-Supervised Learning of Optical Flow <Br>
+**[Year]** CVPR 2019 Oral <Br>
+**[Author]**   [Pengpeng liu](https://ppliuboy.github.io/), [Michael R. Lyu](http://www.cse.cuhk.edu.hk/lyu/), [Irwin King](https://www.cse.cuhk.edu.hk/irwin.king/), [Jia Xu](http://pages.cs.wisc.edu/~jiaxu/index.html)<Br>
+**[Pages]** <Br>
+https://github.com/ppliuboy/SelFlow <Br>
+**[Description]** <Br>	
 
-### *** Robustness Meets Deep Learning: An End-to-End Hybrid Pipeline for Unsupervised Learning of Egomotion***
+### ***Robustness Meets Deep Learning: An End-to-End Hybrid Pipeline for Unsupervised Learning of Egomotion***
 **[Paper]** Unsupervised Event-based Learning of Optical Flow, Depth, and Egomotion<Br>
 **[Year]** arXiv 1812 <Br>
 **[Author]**  [Alex Zihao Zhu](https://fling.seas.upenn.edu), Wenxin Liu, Ziyun Wang, Vijay Kumar, [Kostas Daniilidis](https://www.cis.upenn.edu/~kostas/)
@@ -141,7 +148,7 @@ https://github.com/anuragranj/cc <Br>
 **[Pages]** <Br>
 **[Description]** <Br>	
 	
-### *** Unsupervised Event-based Learning of Optical Flow, Depth, and Egomotion***
+### ***Unsupervised Event-based Learning of Optical Flow, Depth, and Egomotion***
 **[Paper]** Unsupervised Event-based Learning of Optical Flow, Depth, and Egomotion<Br>
 **[Year]** CVPR 2019 <Br>
 **[Author]**  [Alex Zihao Zhu](https://fling.seas.upenn.edu), Liangzhe Yuan, Kenneth Chaney, [Kostas Daniilidis](https://www.cis.upenn.edu/~kostas/)
