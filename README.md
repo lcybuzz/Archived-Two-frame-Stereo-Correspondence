@@ -297,12 +297,13 @@ https://github.com/dhernandez0/sgm <Br>
 **[Pages]** <Br>
 **[Description]** <Br>	
 
-### ***Unsupervised Stereo Matching Using Confidential Correspondence Consistency***
+### ***Unsupervised Stereo Matching Using Confidential Correspondence Consistency* ★**
 **[Paper]** Unsupervised Stereo Matching Using Confidential Correspondence Consistency<Br>
 **[Year]** ICIP 2017 <Br>
 **[Author]**  Sunghun Joung, [Seungryong Kim](https://seungryong.github.io/), Kihong Park, and Kwanghoon Sohn<Br>
 **[Pages]** <Br>
 **[Description]** <Br>	
+1) 提出了一些计算loss时可靠positive samples挖掘的策略, 包括去除视差过大区域, 选择两张图像颜色相近的区域, 选择梯度大的区域等. <Br>
 	
 ### **ActiveStereoNet ★★**
 **[Paper]** ActiveStereoNet:End-to-End Self-Supervised Learning for Active Stereo Systems<Br>
