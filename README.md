@@ -131,7 +131,7 @@ https://github.com/ryersonvisionlab/unsupFlownet/ (TF) <Br>
 https://people.eecs.berkeley.edu/~pathak/unsupervised_video/ <Br>
 **[Description]** <Br>
 	
-### **UnFlow**
+### **UnFlow ★**
 **[Paper]** UnFlow: Unsupervised Learning of Optical Flow with a Bidirectional Census Loss <Br>
 **[Year]** AAAI 2018 <Br>
 **[Author]** Simon Meister, Junhwa Hur,  Stefan Roth <Br>
