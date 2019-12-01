@@ -148,7 +148,7 @@ https://research.nvidia.com/publication/2018-05_Adversarial-Collaboration-Joint 
 https://github.com/anuragranj/cc <Br>
 **[Description]** <Br>		
 
-### **SelFlow**
+### **SelFlow ★**
 **[Paper]** SelFlow: Self-Supervised Learning of Optical Flow <Br>
 **[Year]** CVPR 2019 Oral <Br>
 **[Author]**   [Pengpeng liu](https://ppliuboy.github.io/), [Michael R. Lyu](http://www.cse.cuhk.edu.hk/lyu/), [Irwin King](https://www.cse.cuhk.edu.hk/irwin.king/), [Jia Xu](http://pages.cs.wisc.edu/~jiaxu/index.html)<Br>
