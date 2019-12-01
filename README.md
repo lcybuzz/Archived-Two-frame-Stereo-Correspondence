@@ -107,7 +107,7 @@ https://github.com/twhui/LiteFlowNet2 <Br>
 **[Description]** <Br>
 	
 ## Unsupervised Optical Flow
-### ***Back to basics: Unsupervised learning of optical flow via brightness constancy and motion smoothness***
+### **Unsupervised Flownet ★**
 **[Paper]** Back to basics: Unsupervised learning of optical flow via brightness constancy and motion smoothness <Br>
 **[Year]** ECCV 2016 Workshops<Br>
 **[Author]** [Jason J. Yu](https://www.eecs.yorku.ca/~jjyu/), [Adam W. Harley](http://www.cs.cmu.edu/~aharley/), [Konstantinos G. Derpanis](http://www.scs.ryerson.ca/~kosta/) <Br>
