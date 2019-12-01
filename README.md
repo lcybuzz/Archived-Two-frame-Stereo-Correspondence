@@ -107,6 +107,22 @@ https://github.com/twhui/LiteFlowNet2 <Br>
 **[Description]** <Br>
 	
 ## Unsupervised Optical Flow
+### ***Back to basics: Unsupervised learning of optical flow via brightness constancy and motion smoothness***
+**[Paper]** Back to basics: Unsupervised learning of optical flow via brightness constancy and motion smoothness <Br>
+**[Year]** ECCV 2016 Workshops<Br>
+**[Author]** [Jason J. Yu](https://www.eecs.yorku.ca/~jjyu/), [Adam W. Harley](http://www.cs.cmu.edu/~aharley/), [Konstantinos G. Derpanis](http://www.scs.ryerson.ca/~kosta/) <Br>
+**[Pages]**  <Br>
+https://www.eecs.yorku.ca/~jjyu/projects/unsupflow/ <Br>
+https://github.com/ryersonvisionlab/unsupFlownet/ (TF) <Br>
+**[Description]** <Br>
+
+### ***Unsupervised convolutional neural networks for motion estimation***
+**[Paper]** Unsupervised convolutional neural networks for motion estimation <Br>
+**[Year]** ICIP 2016<Br>
+**[Author]** Aria Ahmadi, Ioannis Patras <Br>
+**[Pages]**  <Br>
+**[Description]** <Br>
+	
 ### ***Learning Features by Watching Objects Move***
 **[Paper]** Learning Features by Watching Objects Move <Br>
 **[Year]** CVPR 2017 <Br>
@@ -290,6 +306,13 @@ https://github.com/dhernandez0/sgm <Br>
 **[Description]** <Br>	
 	
 ## Unsupervised Matching
+### ***Unsupervised Learning of Stereo Matching***
+**[Paper]** Unsupervised Learning of Stereo Matching<Br>
+**[Year]** ICCV 2017 <Br>
+**[Author]** Chao Zhou, Hong Zhang, [Xiaoyong Shen](http://xiaoyongshen.me/), [Jiaya Jia](http://jiaya.me/)<Br>
+**[Pages]** <Br>
+**[Description]** <Br>	
+	
 ### **SsSMnet ★★**
 **[Paper]** Self-Supervised Learning for Stereo Matching with Self-Improving Ability<Br>
 **[Year]** arXiv 1709 <Br>
