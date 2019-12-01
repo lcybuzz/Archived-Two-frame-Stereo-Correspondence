@@ -336,7 +336,7 @@ https://github.com/dhernandez0/sgm <Br>
 https://github.com/meteorshowers/StereoNet-ActiveStereoNet <Br>
 **[Description]** <Br>	
 
-### **Learning to Adapt for Stereo**
+### **L2A ★**
 **[Paper]** Learning to Adapt for Stereo<Br>
 **[Year]** CVPR 2019<Br>
 **[Author]** [Alessio Tonioni](https://alessiotonioni.github.io/), Oscar Rahnama, [Thomas Joy](http://www.robots.ox.ac.uk/~tomjoy/), Luigi Di Stefano, [Thalaiyasingam Ajanthan](https://tajanthan.github.io/), [Philip H.S. Torr](http://www.robots.ox.ac.uk/~phst/)<Br>
