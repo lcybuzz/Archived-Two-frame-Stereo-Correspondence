@@ -139,14 +139,17 @@ https://people.eecs.berkeley.edu/~pathak/unsupervised_video/ <Br>
 **[Description]** <Br>
 
 			
-### **CC**
+### **CC ★★**
 **[Paper]** Competitive Collaboration: Joint Unsupervised Learning of Depth, Camera Motion, Optical Flow and Motion Segmentation <Br>
 **[Year]** CVPR 2019 <Br>
 **[Author]**  Anurag Ranjan, Varun Jampani,Lukas Balles, [Kihwan Kim](https://www.cc.gatech.edu/~kihwan23/), Deqing Sun, Jonas Wulff , [Michael J. Black](https://ps.is.tuebingen.mpg.de/person/black)<Br>
 **[Pages]** <Br>
 https://research.nvidia.com/publication/2018-05_Adversarial-Collaboration-Joint <Br>
 https://github.com/anuragranj/cc <Br>
-**[Description]** <Br>		
+**[Description]** <Br>	
+1) 大致浏览, 提出一种非监督的联合估计深度, 相机姿态, 光流以及运动物体分割的框架. 用类似于EM的交替迭代优化策略, 利用任务间的相互制约关系提升每个子任务的性能. <Br>
+2) 相机姿态和深度的估计适用于静态区域, 光流估计适用于动态区域, 它们之间是竞争关系, motion segmentation用来充当仲裁者的角色. <Br>
+3) 从思路和结果来看感觉这篇文章很有趣, 不过不太适用于当前需求, 以后有需要可以深入了解下. <Br>
 
 ### **SelFlow ★**
 **[Paper]** SelFlow: Self-Supervised Learning of Optical Flow <Br>
