@@ -300,6 +300,14 @@ https://github.com/gengshan-y/high-res-stereo <Br>
 **[Description]** <Br>		
 
 ## Traditional Matching
+### DASC ★
+**[Paper]** DASC: Dense Adaptive Self-Correlation Descriptor for Multi-modal and Multi-spectral Correspondence <Br>
+**[Year]** CVPR 2015 <Br>
+**[Author]** [Seungryong Kim](https://seungryong.github.io/), [Dongbo Min](http://cvl.ewha.ac.kr/), [Bumsub Ham](https://bsham.github.io/), Seungchul Ryu, Minh N. Do, Kwanghoon Sohn<Br>
+**[Pages]** <Br>
+https://seungryong.github.io/DASC/ <Br>
+**[Description]** <Br>	
+	
 ### **SGM GPU**
 **[Paper]**  Embedded real-time stereo estimation via Semi-Global Matching on the GPU <Br>
 **[Year]** ICCS 2016 <Br>
