@@ -10,7 +10,13 @@
 **[Paper]** (CVPR 2019) Iterative Residual Refinement for Joint Optical Flow and Occlusion Estimation <Br>
 **[Author]** [Junhwa Hur](https://hurjunhwa.github.io/), [Stefan Roth](https://www.visinf.tu-darmstadt.de/visinf/team_members/sroth/sroth.en.jsp) <Br>
 **[[Pytorch-Code](https://github.com/visinf/irr)]**<Br>
-	
+
+### Bridging Stereo Matching and Optical Flow ★
+**[Paper]** (CVPR 2019) Bridging Stereo Matching and Optical Flow via Spatiotemporal Correspondence <Br>
+**[Author]**  [Hsueh-Ying Lai](https://lelimite4444.github.io/), [Yi-Hsuan Tsai](https://sites.google.com/site/yihsuantsai/), [Wei-Chen Chiu](https://walonchiu.github.io/)<Br>
+**[[Project](https://lelimite4444.github.io/BridgeDepthFlow-Project-Page/)]** <Br>
+1)粗读, 提出了一个将匹配和光流估计结合起来的无监督学习框架. 性能还不错. <Br>
+
 ### PWC-Net ★★
 **[Paper]** (CVPR 2018 Oral) PWC-Net: CNNs for Optical Flow Using Pyramid, Warping, and Cost Volum <Br>
 **[Author]** Deqing Sun, [Xiaodong Yang](http://xiaodongyang.org/), [Ming-Yu Liu](http://mingyuliu.net/), [Jan Kautz](http://jankautz.com/) <Br>
@@ -56,20 +62,6 @@
 
 
 ## Traditional Optical Flow
-### ***Optical Flow Filter***
-**[Paper]** A Filter Formulation for Computing Real Time Optical Flow <Br>
-**[Year]** RAL 2016 <Br>
-**[Author]** [Juan David Adarve](http://jadarve.github.io/), David J. Austin, [Robert Mahony](https://users.cecs.anu.edu.au/~Robert.Mahony/) <Br>
-**[Pages]** https://github.com/jadarve/optical-flow-filter <Br>
-**[Description]** <Br>
-
-### **DIS**
-**[Paper]** Fast Optical Flow using Dense Inverse Search  <Br>
-**[Year]** CVPR 2016 <Br>
-**[Author]** Till Kroeger, [Radu Timofte](http://www.vision.ee.ethz.ch/~timofter/), [Dengxin Dai](http://www.vision.ee.ethz.ch/~daid/), Luc Van Gool <Br>
-**[Pages]** https://github.com/tikroeger/OF_DIS <Br>
-**[Description]** <Br>
-
 
 ### **BriefMatch**
 **[Paper]** (SCIA17) BriefMatch: Dense binary feature matching for real-time optical flow estimation  <Br>
@@ -77,97 +69,66 @@
 **[Author]** [Gabriel Eilertsen](http://vcl.itn.liu.se/members/gabriel-eilertsen), Per-Erik Forssén, [Jonas Unger](http://vcl.itn.liu.se/members/jonas-unger) <Br>
 **[[Code](https://github.com/gabrieleilertsen/briefmatch)]**  <Br>	
 	
+### ***Optical Flow Filter***
+**[Paper]** (RAL 2016) A Filter Formulation for Computing Real Time Optical Flow <Br>
+**[Author]** [Juan David Adarve](http://jadarve.github.io/), David J. Austin, [Robert Mahony](https://users.cecs.anu.edu.au/~Robert.Mahony/) <Br>
+**[[Code](https://github.com/jadarve/optical-flow-filter)]**  <Br>
+
+### **DIS**
+**[Paper]** (CVPR 2016) Fast Optical Flow using Dense Inverse Search  <Br>
+**[Author]** Till Kroeger, [Radu Timofte](http://www.vision.ee.ethz.ch/~timofter/), [Dengxin Dai](http://www.vision.ee.ethz.ch/~daid/), Luc Van Gool <Br>
+**[[Code](https://github.com/tikroeger/OF_DIS)]**  <Br>
+
+### Fast Cost-Volume Filtering
+**[Paper]** (TPAMI 2013) Fast Cost-Volume Filtering for Visual Correspondence and Beyond <Br>
+**[Author]** Asmaa Hosni, Christoph Rhemann, Michael Bleyer, Carsten Rother, Margrit Gelautz<Br>
+**[[Code](https://github.com/fjordyo0707/StereoMatching-CostFilter)]**  <Br>	
+	
 	
 	
 	
 ## Unsupervised Optical Flow
-### **Unsupervised Flownet ★**
-**[Paper]** Back to basics: Unsupervised learning of optical flow via brightness constancy and motion smoothness <Br>
-**[Year]** ECCV 2016 Workshops<Br>
-**[Author]** [Jason J. Yu](https://www.eecs.yorku.ca/~jjyu/), [Adam W. Harley](http://www.cs.cmu.edu/~aharley/), [Konstantinos G. Derpanis](http://www.scs.ryerson.ca/~kosta/) <Br>
-**[Pages]**  <Br>
-https://www.eecs.yorku.ca/~jjyu/projects/unsupflow/ <Br>
-https://github.com/ryersonvisionlab/unsupFlownet/ (TF) <Br>
-**[Description]** <Br>
+### SelFlow ★
+**[Paper]** (CVPR 2019 Oral) SelFlow: Self-Supervised Learning of Optical Flow <Br>
+**[Author]**   [Pengpeng liu](https://ppliuboy.github.io/), [Michael R. Lyu](http://www.cse.cuhk.edu.hk/lyu/), [Irwin King](https://www.cse.cuhk.edu.hk/irwin.king/), [Jia Xu](http://pages.cs.wisc.edu/~jiaxu/index.html)<Br>
+**[[Code](https://github.com/ppliuboy/SelFlow )]**  <Br>
 
-### ***Unsupervised convolutional neural networks for motion estimation***
-**[Paper]** Unsupervised convolutional neural networks for motion estimation <Br>
-**[Year]** ICIP 2016<Br>
-**[Author]** Aria Ahmadi, Ioannis Patras <Br>
-**[Pages]**  <Br>
-**[Description]** <Br>
-	
-### ***Learning Features by Watching Objects Move***
-**[Paper]** Learning Features by Watching Objects Move <Br>
-**[Year]** CVPR 2017 <Br>
-**[Author]** [Deepak Pathak](https://people.eecs.berkeley.edu/~pathak/), [Ross Girshick](http://www.rossgirshick.info/), [Piotr Dollár](https://pdollar.github.io/), [Trevor Darrell](https://people.eecs.berkeley.edu/~trevor/), [Bharath Hariharan](http://home.bharathh.info/) <Br>
-**[Pages]**  <Br>
-https://people.eecs.berkeley.edu/~pathak/unsupervised_video/ <Br>
-**[Description]** <Br>
-	
-### **UnFlow ★**
-**[Paper]** UnFlow: Unsupervised Learning of Optical Flow with a Bidirectional Census Loss <Br>
-**[Year]** AAAI 2018 <Br>
-**[Author]** Simon Meister, Junhwa Hur,  Stefan Roth <Br>
-**[Pages]** https://github.com/simonmeister/UnFlow <Br>
-**[Description]** <Br>
-
-			
-### **CC ★★**
-**[Paper]** Competitive Collaboration: Joint Unsupervised Learning of Depth, Camera Motion, Optical Flow and Motion Segmentation <Br>
-**[Year]** CVPR 2019 <Br>
+### CC ★★
+**[Paper]** (CVPR 2019) Competitive Collaboration: Joint Unsupervised Learning of Depth, Camera Motion, Optical Flow and Motion Segmentation <Br>
 **[Author]**  Anurag Ranjan, Varun Jampani,Lukas Balles, [Kihwan Kim](https://www.cc.gatech.edu/~kihwan23/), Deqing Sun, Jonas Wulff , [Michael J. Black](https://ps.is.tuebingen.mpg.de/person/black)<Br>
-**[Pages]** <Br>
-https://research.nvidia.com/publication/2018-05_Adversarial-Collaboration-Joint <Br>
-https://github.com/anuragranj/cc <Br>
-**[Description]** <Br>	
+**[[Project](https://research.nvidia.com/publication/2018-05_Adversarial-Collaboration-Joint)]** **[[Code](https://github.com/anuragranj/cc)]**   <Br>	
 1) 大致浏览, 提出一种非监督的联合估计深度, 相机姿态, 光流以及运动物体分割的框架. 用类似于EM的交替迭代优化策略, 利用任务间的相互制约关系提升每个子任务的性能. <Br>
 2) 相机姿态和深度的估计适用于静态区域, 光流估计适用于动态区域, 它们之间是竞争关系, motion segmentation用来充当仲裁者的角色. <Br>
 3) 从思路和结果来看感觉这篇文章很有趣, 不过不太适用于当前需求, 以后有需要可以深入了解下. <Br>
 
-### **SelFlow ★**
-**[Paper]** SelFlow: Self-Supervised Learning of Optical Flow <Br>
-**[Year]** CVPR 2019 Oral <Br>
-**[Author]**   [Pengpeng liu](https://ppliuboy.github.io/), [Michael R. Lyu](http://www.cse.cuhk.edu.hk/lyu/), [Irwin King](https://www.cse.cuhk.edu.hk/irwin.king/), [Jia Xu](http://pages.cs.wisc.edu/~jiaxu/index.html)<Br>
-**[Pages]** <Br>
-https://github.com/ppliuboy/SelFlow <Br>
-**[Description]** <Br>	
-
-### ***Robustness Meets Deep Learning: An End-to-End Hybrid Pipeline for Unsupervised Learning of Egomotion***
-**[Paper]** Unsupervised Event-based Learning of Optical Flow, Depth, and Egomotion<Br>
-**[Year]** arXiv 1812 <Br>
-**[Author]**  [Alex Zihao Zhu](https://fling.seas.upenn.edu), Wenxin Liu, Ziyun Wang, Vijay Kumar, [Kostas Daniilidis](https://www.cis.upenn.edu/~kostas/)
-<Br>
-**[Pages]** <Br>
-**[Description]** <Br>	
-	
-### ***Unsupervised Event-based Learning of Optical Flow, Depth, and Egomotion***
-**[Paper]** Unsupervised Event-based Learning of Optical Flow, Depth, and Egomotion<Br>
-**[Year]** CVPR 2019 <Br>
+### *Unsupervised Event-based Learning of Optical Flow, Depth, and Egomotion*
+**[Paper]** (CVPR 2019) Unsupervised Event-based Learning of Optical Flow, Depth, and Egomotion<Br>
 **[Author]**  [Alex Zihao Zhu](https://fling.seas.upenn.edu), Liangzhe Yuan, Kenneth Chaney, [Kostas Daniilidis](https://www.cis.upenn.edu/~kostas/)
 <Br>
-**[Pages]** <Br>
-**[Description]** <Br>	
+
+### Robustness Meets Deep Learning
+**[Paper]** (arXiv 1812) Robustness Meets Deep Learning: An End-to-End Hybrid Pipeline for Unsupervised Learning of Egomotion <Br>
+**[Author]**  [Alex Zihao Zhu](https://fling.seas.upenn.edu), Wenxin Liu, Ziyun Wang, Vijay Kumar, [Kostas Daniilidis](https://www.cis.upenn.edu/~kostas/)
+<Br>
+	
+### **UnFlow ★**
+**[Paper]** (AAAI 2018) UnFlow: Unsupervised Learning of Optical Flow with a Bidirectional Census Loss <Br>
+**[Author]** Simon Meister, Junhwa Hur,  Stefan Roth <Br>
+**[[Code](https://github.com/simonmeister/UnFlow)]**   <Br>
+
+### ***Learning Features by Watching Objects Move***
+**[Paper]** (CVPR 2017) Learning Features by Watching Objects Move <Br>
+**[Author]** [Deepak Pathak](https://people.eecs.berkeley.edu/~pathak/), [Ross Girshick](http://www.rossgirshick.info/), [Piotr Dollár](https://pdollar.github.io/), [Trevor Darrell](https://people.eecs.berkeley.edu/~trevor/), [Bharath Hariharan](http://home.bharathh.info/) <Br>
+**[[Project](https://people.eecs.berkeley.edu/~pathak/unsupervised_video/)]**  <Br>
+	
+### Unsupervised Flownet ★
+**[Paper]** (ECCVW 2016) Back to basics: Unsupervised learning of optical flow via brightness constancy and motion smoothness <Br>
+**[Author]** [Jason J. Yu](https://www.eecs.yorku.ca/~jjyu/), [Adam W. Harley](http://www.cs.cmu.edu/~aharley/), [Konstantinos G. Derpanis](http://www.scs.ryerson.ca/~kosta/) <Br>
+**[[Project](https://www.eecs.yorku.ca/~jjyu/projects/unsupflow/)]**  **[[TF-Code](https://github.com/ryersonvisionlab/unsupFlownet/)]**    <Br>
+
+### Unsupervised convolutional neural networks for motion estimation
+**[Paper]** (ICIP 2016) Unsupervised convolutional neural networks for motion estimation <Br>
+**[Author]** Aria Ahmadi, Ioannis Patras <Br>
 	
 
-  
-# Flow And Disparity
-## Deep Flow And Disparity
-### ***Bridging Stereo Matching and Optical Flow* ★**
-**[Paper]** Bridging Stereo Matching and Optical Flow via Spatiotemporal Correspondence <Br>
-**[Year]** CVPR 2019 <Br>
-**[Author]**  [Hsueh-Ying Lai](https://lelimite4444.github.io/), [Yi-Hsuan Tsai](https://sites.google.com/site/yihsuantsai/), [Wei-Chen Chiu](https://walonchiu.github.io/)<Br>
-**[Pages]** <Br>
-https://lelimite4444.github.io/BridgeDepthFlow-Project-Page/ <Br>
-**[Description]** <Br>	
-1)粗读, 提出了一个将匹配和光流估计结合起来的无监督学习框架. 性能还不错. <Br>
 
-## Traditional Flow And Disparity
-### ***Fast Cost-Volume Filtering***
-**[Paper]** Fast Cost-Volume Filtering for Visual Correspondence and Beyond <Br>
-**[Year]** PAMI 2013 <Br>
-**[Author]** Asmaa Hosni, Christoph Rhemann, Michael Bleyer, Carsten Rother, Margrit Gelautz<Br>
-**[Pages]** <Br>
-https://github.com/fjordyo0707/StereoMatching-CostFilter <Br>
-**[Description]** <Br>	
-	
