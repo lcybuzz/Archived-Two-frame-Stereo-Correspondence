@@ -19,14 +19,9 @@
 
 
 # Optical Flow Estimation
-## Optical Flow Rank
-  - ★★★
-  - ★★
-  - ★
-  - ♥
-  
+
 ## Deep Optical Flow
-### **FlowNet ★★☆**
+### FlowNet ★★☆
 **[Paper]** FlowNet: Learning Optical Flow with Convolutional Networks <Br>
 **[Year]** ICCV 2015 <Br>
 **[Author]** Alexey Dosovitskiy, Philipp Fischer, Eddy Ilg, P. Häusser, C. Hazırbaş, V. Golkov, P. Smagt, D. Cremers, Thomas Brox <Br>
@@ -34,7 +29,7 @@
 https://lmb.informatik.uni-freiburg.de/Publications/2015/DFIB15/ <Br>
 **[Description]** <Br>
 	
-### **FlowNet 2.0 ★**
+### FlowNet 2.0 ★
 **[Paper]** FlowNet 2.0: Evolution of Optical Flow Estimation with Deep Networks <Br>
 **[Year]** CVPR 2017 <Br>
 **[Author]** Eddy Ilg, Nikolaus Mayer, Tonmoy Saikia, Margret Keuper, Alexey Dosovitskiy, Thomas Brox <Br>
