@@ -6,7 +6,7 @@
 
 ## Deep Optical Flow
 ### MaskFlownet ★☆
-**[Paper]** (CVPR 020 Oral) MaskFlownet: Asymmetric Feature Matching with Learnable Occlusion Mask <Br>
+**[Paper]** (CVPR 2020 Oral) MaskFlownet: Asymmetric Feature Matching with Learnable Occlusion Mask <Br>
 **[Author]** Shengyu Zhao, Yilun Sheng, Yue Dong, [Eric I-Chao Chang](https://www.microsoft.com/en-us/research/people/echang/?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fpeople%2Fechang%2F), Yan Xu <Br>
 **[[MXNet-Code](https://github.com/microsoft/MaskFlownet)]**<Br>
 隐式预测occlusion map
