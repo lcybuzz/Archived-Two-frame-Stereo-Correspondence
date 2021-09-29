@@ -5,6 +5,12 @@
 
 
 ## Deep Optical Flow
+### Depthstillation ★☆
+**[Paper]** (CVPR 2021) Learning optical flow from still images <Br>
+**[Author]** [Filippo Aleotti](https://www.unibo.it/sitoweb/filippo.aleotti2), [Matteo Poggi](https://mattpoggi.github.io/), [Stefano Mattoccia](http://vision.deis.unibo.it/~smatt/Site/Home.html) <Br>
+**[[Project](https://mattpoggi.github.io/projects/cvpr2021aleotti/)]** **[[Pytorch-Code](https://github.com/mattpoggi/depthstillation)]** <Br>
+利用单张图像深度估计生成的深度图, 生成点云, 再通过虚拟地移动相机, 生成不同视角的图像. 为解决forward warping的空洞和一对多问题, 提出了一些策略.
+	
 ### MaskFlownet ★☆
 **[Paper]** (CVPR 2020 Oral) MaskFlownet: Asymmetric Feature Matching with Learnable Occlusion Mask <Br>
 **[Author]** Shengyu Zhao, Yilun Sheng, Yue Dong, [Eric I-Chao Chang](https://www.microsoft.com/en-us/research/people/echang/?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fpeople%2Fechang%2F), Yan Xu <Br>
